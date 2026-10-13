@@ -1,0 +1,6 @@
+Once upon a time, a curious engineer wanted to understand language models.
+A language model reads tokens and predicts the next token. A transformer uses attention to compare earlier tokens.
+During training, the model compares its predictions with the correct next character and updates its parameters.
+The model contains embeddings, attention layers, feed-forward layers, normalization, and an output projection.
+A small model with a tiny dataset has limited knowledge and generates imperfect text.
+Building a tiny transformer helps the engineer understand tokenization, attention, training, weights, and sampling.
